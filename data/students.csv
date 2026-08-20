@@ -1,0 +1,5 @@
+student_id,name,attendance_pct,math_score,science_score,english_score,teacher_notes
+STU001,Aarav Sharma,92,88,91,85,Consistently attentive and completes homework on time.
+STU002,Priya Verma,64,45,52,50,Frequently absent on Mondays. Struggles with algebra concepts.
+STU003,Rohan Mehta,81,72,68,75,Shows good participation but test scores dropped recently.
+STU004,Ananya Iyer,58,38,42,40,Needs urgent academic intervention. Struggles with focus.
